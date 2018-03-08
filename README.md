@@ -7,8 +7,6 @@
 - Tim Parkyn (TimParkyn)
 - Mike Tarkington (MikeTarkington)
 
-## User Stories
-
 ### Users can:
 - have a collection of games for display.
 - can be-friend other gamers.
